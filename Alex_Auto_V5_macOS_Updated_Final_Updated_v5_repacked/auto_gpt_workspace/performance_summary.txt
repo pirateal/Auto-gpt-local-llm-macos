@@ -1,0 +1,2 @@
+Sequence of commands: execute_python_file, write_tests, execute_shell, search_files
+Performance assessment: efficient in executing Python files, accurate in generating tests and searching files
